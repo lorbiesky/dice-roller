@@ -5,7 +5,28 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Dice Roller</title>
     <link rel="stylesheet" href="styles.css" />
-    <script src="script.js"></script>
   </head>
-  <body></body>
+  <body>
+    <div class="dice-container">
+      <div class="container-header">
+        <h1>Dice Roller</h1>
+
+        <div class="result-container">
+          <span>Total:</span>
+          <h2 id="total">0</h2>
+        </div>
+      </div>
+      <div class="dice-display">
+        <div class="display-content"></div>
+      </div>
+
+      <div class="options-container"></div>
+
+      <button type="button" class="btn-roll-dice" onclick="rollDices()">
+        Rolar
+      </button>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
 </html>
