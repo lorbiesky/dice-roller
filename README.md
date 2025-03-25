@@ -1,4 +1,4 @@
-# dice-roller
+# Dice Roller
 
 Este projeto é um simples simulador de rolagem de dados, onde você pode adicionar dados com diferentes números de lados (como d4, d6, d8, etc.), rolar os dados e visualizar o total da rolagem.
 
