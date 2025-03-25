@@ -24,3 +24,11 @@ Este projeto é um simples simulador de rolagem de dados, onde você pode adicio
 
 1. Clone este repositório ou baixe os arquivos.
 2. Abra o arquivo `index.html` em seu navegador para começar a usar o simulador de dados.
+
+### Visualizar o Projeto
+
+O projeto foi hospedado no GitHub Pages e pode ser acessado através do seguinte link:
+
+[https://lorbiesky.github.io/dice-roller/](https://lorbiesky.github.io/dice-roller/)
+
+Basta clicar no link para visualizar o projeto em funcionamento.
